@@ -1,14 +1,14 @@
 {
-  "name": "bot-discord",
+  "name": "the-dungeon",
   "version": "1.0.0",
-  "description": "BOT créé dans le but d'un serveur Discord RP",
-  "main": "<main.js>",
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "password"
-  ],
   "author": "FRK",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
 }
